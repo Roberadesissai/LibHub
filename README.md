@@ -135,5 +135,3 @@ Feel free to connect with us on [LinkedIn](Your_LinkedIn_Profile) or [Twitter](Y
 Explore, Contribute, and Excel with LibHub! 📚🚀
 
 --- 
-
-This README provides a structured overview of `LibHub`, sets the stage for contributors, and guides users on how to get started with the repository. The name `LibHub` and the associated README encapsulates the essence of being a centralized hub for diverse libraries essential for various projects.
