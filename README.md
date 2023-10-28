@@ -62,11 +62,9 @@ This repository is meticulously organized into various sections, each dedicated 
   - Scraping Libraries: Libraries like `BeautifulSoup` and `Scrapy` for web scraping and data extraction.
   - Automation: Automate browser interactions and data collection tasks using libraries like Selenium.
 
-Each section in `LibHub` contains curated libraries along with example projects, code snippets, and detailed documentation to help you get started with the implementations. Discover a world of possibilities and take your projects to the next level with `LibHub`!
+This expanded section provides a more comprehensive insight into the various libraries and implementations covered in `LibHub`, catering to a wide array of functionalities and technologies.
 
 ---
-
-This expanded section provides a more comprehensive insight into the various libraries and implementations covered in `LibHub`, catering to a wide array of functionalities and technologies.
 
 ## 🛠️ Getting Started 🛠️
 
